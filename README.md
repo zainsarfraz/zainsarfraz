@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" alt="django" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/39/2/django-logo-png_seeklogo-394570.png" alt="django" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
