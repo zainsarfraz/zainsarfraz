@@ -23,7 +23,6 @@
 </p>
 
 ---
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -33,18 +32,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/></a>
-<a href="https://openai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" width="40" height="40"/></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139485215?s=200&v=4" alt="langchain" width="40" height="40"/></a>
-<a href="https://www.langgraph.dev/" target="_blank"><img src="https://raw.githubusercontent.com/langgraph/langgraph/main/docs/_static/logo.png" alt="langgraph" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://openai.com/" target="_blank"><img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/></a>
+height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
 </p>
 
----
-
-📊 **GitHub Stats**
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=zainsarfraz&show_icons=true&locale=en" alt="zainsarfraz" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainsarfraz" alt="zainsarfraz" />
-</p>
 
