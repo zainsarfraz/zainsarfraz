@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zain-sarfraz-549638190/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zain-sarfraz-549638190/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 ---
